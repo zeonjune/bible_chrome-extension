@@ -1,0 +1,15 @@
+@import 'reset.css';
+
+.delete {
+	display: none;
+}
+
+.bgimage {
+	width: 100vw;
+	height: 100vh;
+	position: absolute;
+	left: 0;
+	top: 0;
+	object-fit: cover;
+	z-index: -1;
+}
